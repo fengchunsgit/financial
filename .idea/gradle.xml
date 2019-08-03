@@ -9,6 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/entity" />
+            <option value="$PROJECT_DIR$/manager" />
+            <option value="$PROJECT_DIR$/quartz" />
+            <option value="$PROJECT_DIR$/saller" />
+            <option value="$PROJECT_DIR$/swagger" />
+            <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
