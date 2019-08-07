@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/com.imooc.manager" />
             <option value="$PROJECT_DIR$/entity" />
             <option value="$PROJECT_DIR$/manager" />
             <option value="$PROJECT_DIR$/quartz" />
